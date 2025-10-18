@@ -1,4 +1,6 @@
-package com.example.shoping_app.domain
+package com.example.shoping_app.data
+
+import com.example.shoping_app.domain.ShopItem
 
 interface ShopListRepository {
 
